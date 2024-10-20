@@ -1,5 +1,5 @@
 <template>
-    <div class="mt-10 m-48 border border-gray-500 p-14">
+    <div class="mt-10 md:m-48 border border-gray-500 p-14">
       <p @mouseup="handleTextSelection">
         Time zones are regions of the world divided based on the local time in relation to Coordinated Universal Time (UTC). They help standardize time across different locations on the planet. Each time zone is usually one hour ahead or behind neighboring zones, adjusting for the Earth's rotation. There are 24 standard time zones, but some regions may use half-hour or even 15-minute offsets. Time zones can also shift seasonally due to daylight saving time, where clocks are set forward or backward to make better use of daylight.
       </p>
